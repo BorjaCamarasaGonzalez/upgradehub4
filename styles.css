@@ -1,0 +1,84 @@
+header{
+        display: flex;
+        width: 100vw;
+        height: 13vh;
+        background-d: white;
+        justify-content: space-between;
+        margin-top: 10px;
+    }
+    
+    
+.header_rojo{
+    width: 160px;
+    height: 41px;
+    
+}
+.mujer{
+    display: inline-block;
+    margin-left:20px;
+
+}
+.hombre{
+    display: inline-block;
+    margin:10px;
+}
+.header_azul{
+    width: 160px;
+    height: 41px;
+    text-align: center;
+}
+.mitienda{
+    margin-top: 40px;
+}
+.header_amarillo{
+    width: 160px;
+    height: 41px;
+    background-color: yellow;
+}
+section{
+    display: flex;
+    width: 100vw;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+.figura1 {
+    margin-top: 8px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.fotos{
+    height: 234px;
+    width: 100%;
+}
+
+.banner{
+    display: flex;
+    width: 100vw;
+    height: 13vh;
+    background.color: blue;
+    justify-content: space-between;
+}
+.contact{
+    display: flex;
+    width: 100vw;
+    height: 13vh;
+    background-color: yellowgreen;
+    justify-content: space-between;
+}
+.indice{
+    display: flex;
+    width: 100vw;
+    height: 26vh;
+    background-color: orangered;
+    justify-content: space-between;
+}
+.piepagina{
+    display: flex;
+    width: 100vw;
+    height: 13vh;
+    background-color: lightpink;
+    justify-content: space-between;
+}
